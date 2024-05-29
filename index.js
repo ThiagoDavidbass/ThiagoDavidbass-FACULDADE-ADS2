@@ -19,32 +19,32 @@ usuario clicar no botao ele seja estilizado.
 function emitirSom(somDoInstrumento) {
     var som = new Audio(); // Crie um novo elemento de áudio
     if (somDoInstrumento === 0) {
-        som.src = '/Projeto Final/assets/sounds/rightCrash.mp3'; // Caminho para o arquivo de áudio
+        som.src = '/rightCrash.mp3'; // Caminho para o arquivo de áudio
         som.play(); // Tocar o áudio
     }
 
     if (somDoInstrumento === 1) {
-        som.src = '/Projeto Final/assets/sounds/kickbass.mp3'; // Caminho para o arquivo de áudio
+        som.src = '/kickbass.mp3'; // Caminho para o arquivo de áudio
         som.play(); // Tocar o áudio
     }
 
     if (somDoInstrumento === 2) {
-        som.src = '/Projeto Final/assets/sounds/tom3.mp3'; // Caminho para o arquivo de áudio
+        som.src = '/tom3.mp3'; // Caminho para o arquivo de áudio
         som.play(); // Tocar o áudio
     }
 
     if (somDoInstrumento === 3) {
-        som.src = '/Projeto Final/assets/sounds/tom2.mp3'; // Caminho para o arquivo de áudio
+        som.src = '/tom2.mp3'; // Caminho para o arquivo de áudio
         som.play(); // Tocar o áudio
     }
 
     if (somDoInstrumento === 4) {
-        som.src = '/Projeto Final/assets/sounds/snare.mp3'; // Caminho para o arquivo de áudio
+        som.src = '/snare.mp3'; // Caminho para o arquivo de áudio
         som.play(); // Tocar o áudio
     }
 
     if (somDoInstrumento === 5) {
-        som.src = '/Projeto Final/assets/sounds/tom1.mp3'; // Caminho para o arquivo de áudio
+        som.src = '/tom1.mp3'; // Caminho para o arquivo de áudio
         som.play(); // Tocar o áudio
     }
 
