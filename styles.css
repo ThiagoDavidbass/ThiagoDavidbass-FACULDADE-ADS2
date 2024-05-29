@@ -15,27 +15,27 @@ h1 {
 }
 
 .a {
-    background-image: url("./assets/imagens/crash.png");
+    background-image: url("./crash.png");
 }
 
 .s { 
-    background-image: url("./assets/imagens/tom1.png");
+    background-image: url("./tom1.png");
 }
 
 .d {
-    background-image: url("./assets/imagens/snare.png");
+    background-image: url("./snare.png");
 }
 
 .j {
-    background-image: url("./assets/imagens/tom3.png");
+    background-image: url("./tom3.png");
 }
 
 .k {
-    background-image: url("./assets/imagens/tom2.png");
+    background-image: url("./tom2.png");
 }
 
 .l {
-    background-image: url("./assets/imagens/kickbass.png");
+    background-image: url("./kickbass.png");
 }
 
 .drum {
